@@ -1,5 +1,10 @@
-## Websites for Learning Basics of Sentiment Analysis & Related Code
+## Informal Resources:
 https://monkeylearn.com/sentiment-analysis/
 https://neptune.ai/blog/sentiment-analysis-python-textblob-vs-vader-vs-flair
 https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/
 https://towardsdatascience.com/my-absolute-go-to-for-sentiment-analysis-textblob-3ac3a11d524
+
+## Formal Resources:
+Feldman, R. (2013). Techniques and applications for sentiment analysis. Communications of the ACM, 56(4), 82–89. https://doi.org/10.1145/2436256.2436274
+Hutto, C., & Gilbert, E. (2014). VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text. Proceedings of the International AAAI Conference on Web and Social Media, 8(1), Article 1. https://doi.org/10.1609/icwsm.v8i1.14550
+Mejova, Y. (2009). Sentiment Analysis: An Overview [Comprehensive Exam Paper, Computer Science Department, University of Iowa]. https://d1wqtxts1xzle7.cloudfront.net/3243118/CompsYelenaMejova-libre.pdf?1390830364=&response-content-disposition=inline%3B+filename%3DSentiment_Analysis_An_Overview.pdf&Expires=1676534638&Signature=XKk2wmIgfXeHbB1zhfVfz4xMWUFkkti-lOvD4zd2at9pA5W5eyvMEHjvWAB4HoffjjpbHrgOqrFxyjwVuQqYkSRsoon07qt3l4uy5OVFJYHOJbG3xEChq~dj5e~LsFK7jEyn2yLVmbSD2P25y74W9Il1wHF8P0-lWxFofyy~Vz3pm~xexPmEkMPwN6A23mrSXsiut0Rtz1osJ1aW8SQLUym3DuCmjn2H9Mg2qA9HZwd7HOFzLispLCwspKdJ4unJeJEOvzFVqWw0FLUSjt1QmNEhEDeYC1i5GV5RJrP88kit~McTNDZ9dsLzees7JIYodBBCAfvTpLYzPiqgplhJdA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
