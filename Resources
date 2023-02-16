@@ -1,3 +1,7 @@
+## VADER & TextBlob Documentation:
+https://github.com/cjhutto/vaderSentiment
+https://textblob.readthedocs.io/en/dev/quickstart.html
+
 ## Informal Resources:
 https://monkeylearn.com/sentiment-analysis/
 https://neptune.ai/blog/sentiment-analysis-python-textblob-vs-vader-vs-flair
